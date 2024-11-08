@@ -45,7 +45,11 @@ The app allows users to upload a chat file, view user activity, and track media 
 # Demo
 
 Screenshots:
-
+![Image](step1.png)
+![Image](step2.png)
+![Image](step3.png)
+![Image](step4.png)
+![Image](step5.png)
 
 ## Youtube Tutorial Link 
 Here’s a quick demonstration of the application
