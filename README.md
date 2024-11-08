@@ -43,10 +43,14 @@ The app allows users to upload a chat file, view user activity, and track media 
 - Frontend: Streamlit for creating the user interface
 
 # Demo
-Here’s a quick demonstration of the application:
 
 Screenshots:
 
+
+## Youtube Tutorial Link 
+Here’s a quick demonstration of the application
+
+Check Out This: https://youtu.be/eukTkBwyIfY
 
 ## Features
 
